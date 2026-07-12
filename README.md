@@ -125,6 +125,7 @@ Completed investigations include:
 - Linux Authentication Failure Investigation
 - Windows Process Creation Analysis
 - `whoami /priv` Investigation
+- Linux User Account Creation Investigation
 
 More investigations coming soon...
 

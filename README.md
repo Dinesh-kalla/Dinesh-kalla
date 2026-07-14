@@ -125,9 +125,31 @@ Completed investigations include:
 - Linux Authentication Failure Investigation
 - Windows Process Creation Analysis
 - `whoami /priv` Investigation
-- Linux User Account Creation Investigation
+- Linux Listening Ports Monitoring
+- Linux User Account Creation Investigation (MITRE T1136.001)
 
 More investigations coming soon...
+
+---
+
+## 🦈 Wireshark Traffic Analysis
+
+Hands-on packet analysis labs covering:
+
+- Network Troubleshooting (ICMP, ARP, TCP)
+- ARP Spoofing Investigation
+- DNS Query/Response Analysis
+- HTTP Traffic Investigation
+- HTTPS/TLS Handshake Analysis
+
+---
+
+## 🌐 Network Scanning
+
+- Nmap Host Discovery
+- Service Version Detection
+- OS Detection
+- Network Reconnaissance against Metasploitable 2
 
 ---
 

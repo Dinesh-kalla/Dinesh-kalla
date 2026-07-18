@@ -121,12 +121,12 @@ Become a Security Operations Center (SOC) Analyst and contribute to protecting o
 
 Completed investigations include:
 
-- SSH Authentication Analysis
-- Linux Authentication Failure Investigation
-- Windows Process Creation Analysis
-- `whoami /priv` Investigation
-- Linux Listening Ports Monitoring
+- SSH Authentication Failure Investigation (Ubuntu)
+- Windows Process Investigation (`whoami /priv`)
+- Linux Privilege Escalation Investigation (`sudo` to root)
 - Linux User Account Creation Investigation (MITRE T1136.001)
+- Linux Listening Ports Investigation
+- Nmap SSH Service Detection Investigation (MITRE T1595, T1046)
 
 More investigations coming soon...
 
@@ -147,8 +147,10 @@ Hands-on packet analysis labs covering:
 ## 🌐 Network Scanning
 
 - Nmap Host Discovery
+- TCP Connect & SYN Scanning
 - Service Version Detection
-- OS Detection
+- Operating System Fingerprinting
+- NSE Vulnerability Scanning (CVE identification)
 - Network Reconnaissance against Metasploitable 2
 
 ---
